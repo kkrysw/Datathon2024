@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2021-10-14T14:19:39.783731
+description,Description,Each row is a US county – US county pair. Counties are denoted by their 5-digit FIPS code. Excludes counties with few active users.
+format,File Format,TSV
+download_url,Download URL,https://data.humdata.org/dataset/e9988552-74e4-4ff4-943f-c782ac8bca87/resource/c59fd5ac-0458-4e83-b6be-5334f0ea9a69/download/us-counties-us-counties-fb-social-connectedness-index-october-2021.zip
+id,Resource ID,c59fd5ac-0458-4e83-b6be-5334f0ea9a69
+last_modified,Updated,2021-10-14T14:19:36.312298
+metadata_modified,Metadata Updated,2024-03-15T14:32:53.843317
+microdata,Microdata,False
+dataset_id,Dataset ID,e9988552-74e4-4ff4-943f-c782ac8bca87
+resource_type,Resource Type,file.upload
+name,Resource Name,US counties-US counties - FB Social Connectedness Index - October 2021.zip
+mimetype,MIME Type,application/zip
+size,Size,47.1M

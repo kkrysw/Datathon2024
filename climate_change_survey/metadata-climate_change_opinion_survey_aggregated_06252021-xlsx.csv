@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2021-06-24T19:32:46.284472
+description,Description,"Survey data and codebook included. The survey was fielded on Facebook between February 17, 2021 and March 3, 2021."
+format,File Format,XLSX
+download_url,Download URL,https://data.humdata.org/dataset/dc9f2ca4-8b62-4747-89b1-db426ce617a0/resource/d22eb105-cda9-4060-9e98-8540ef06b942/download/climate_change_opinion_survey_aggregated_06252021.xlsx
+id,Resource ID,d22eb105-cda9-4060-9e98-8540ef06b942
+last_modified,Updated,2021-06-24T19:32:46.051095
+metadata_modified,Metadata Updated,2023-03-03T04:40:35.050119
+microdata,Microdata,False
+dataset_id,Dataset ID,dc9f2ca4-8b62-4747-89b1-db426ce617a0
+resource_type,Resource Type,file.upload
+name,Resource Name,Climate_Change_Opinion_Survey_Aggregated_06252021.xlsx
+mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+size,Size,61.3K
